@@ -1,0 +1,1 @@
+df.createOrReplaceTempView('nome_da_view')
