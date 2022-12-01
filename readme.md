@@ -1,23 +1,12 @@
-# Engenharia de Dados
+# Python
 
-## Skills estudadas ate o momento
+## O que é o Python
 
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=yellowgreen)
-![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&color=blue)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=green)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=orange)
-![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&yellow)
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+*    Linguagem de Programação
 
+## O que é o interpretador?
 
-## Conteúdos
+ Software de computador que faz a tradução do código que escrevemos em Python pro código binário que o computador consegue entender.
 
-*   [SQL](./sql)
-*   [Python](./Python/)
-
-## Engenheiro(a) de Dados
-
-"Responsável por compilar e instalar sistemas de bancos de dados, escrever consultas complexas, dimensionar dados para várias máquinas e implementar sistemas de recuperação de desastres"
-
-O engenheiro de Dados possui um bom entendimento de dados estruturados e não estruturados e deve ser capas de construir pipelines que movam dados por toda a empresa. 
+## o que é uma IDE (Integrated Development Environment – Ambiente de Desenvolvimento Integrado)?
+Programa de computador que reúne características e ferramentas de apoio ao desenvolvimento de software com o objetivo de agilizar este processo.
