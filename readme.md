@@ -13,8 +13,8 @@
 
 ## Conteúdos
 
-*   [SQL](./sql)
-*   [Python](./Python/)
+*   [SQL](https://github.com/annekarolinefc/Engenharia-de-Dados/tree/Linguagem-SQL)
+*   [Python](https://github.com/annekarolinefc/Engenharia-de-Dados/tree/Python)
 
 ## Engenheiro(a) de Dados
 
