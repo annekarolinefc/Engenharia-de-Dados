@@ -1,1 +1,0 @@
-df.select('ID', 'Município', 'População').display(3)
