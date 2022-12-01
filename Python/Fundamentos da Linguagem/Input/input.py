@@ -1,6 +1,0 @@
-numero = input('Digite um numero:')
-print(f'Tipo de dado do input: {type(numero)}')
-numero = int(numero)
-print(f'Convertendo o tipo de dado do input para int com int(numero): {type(numero)}')
-numero = float(numero)
-print(f'Convertendo o tipo de dado do input para float com float(numero): {type(numero)}')

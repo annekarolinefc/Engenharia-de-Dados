@@ -1,5 +1,0 @@
-DEBUG:root:Essa mensagem irá para o arquivo de log
-WARNING:root:Imprime essa mensagem no console
-INFO:root:Nao imprime nada no console
-ERROR:root:mensagem de erro
-CRITICAL:root:Erro grave
