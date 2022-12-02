@@ -15,6 +15,11 @@
 
 *   [SQL](https://github.com/annekarolinefc/Engenharia-de-Dados/tree/Linguagem-SQL)
 *   [Python](https://github.com/annekarolinefc/Engenharia-de-Dados/tree/Python)
+*   [Pandas](https://github.com/annekarolinefc/Engenharia-de-Dados/tree/Pandas)
+*   [Dashboards Interativos com Python](https://github.com/annekarolinefc/Engenharia-de-Dados/tree/Dashboards)
+*   [Apache Spark]()
+*   [Terraform](https://github.com/annekarolinefc/Engenharia-de-Dados/tree/Terraform)
+*   [Databricks]()
 
 ## Engenheiro(a) de Dados
 
