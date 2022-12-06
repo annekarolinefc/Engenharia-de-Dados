@@ -1,5 +1,13 @@
+# AWS 
 
-# AWS
+## Infraestrutura Global
 
-S3 | LINK s3.md
-Kinesis | LINK kinesis.md
+A infraestrutura Global da AWS foi projetada e criada para oferecer um abiente de computação em nuvem:
+* Flexível
+* Escalável
+* Segura
+
+Atualmente há **22 regiões** disponíveis.
+
+### Região da AWS
+Uma região é uma área geográfica.  Normalmente consiste em duas ou mais zonas de disponibilidade.
