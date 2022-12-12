@@ -6,6 +6,7 @@
 
 O engenheiro de Dados possui um bom entendimento de dados estruturados e não estruturados e deve ser capas de construir pipelines que movam dados por toda a empresa. 
 
+</br>
 
 ## Skills estudadas ate o momento
 
@@ -17,11 +18,19 @@ O engenheiro de Dados possui um bom entendimento de dados estruturados e não es
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&yellow)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</br>
+
 ## Minhas anotações
 
-| Conteúdo | Link |
+| CONTEÚDO | LINK |
 |---|---|
-| AWS | ![Conceitos Gerais](./AWS/AWS.md) |
+| AWS | [Conceitos Gerais](./AWS/AWS.md) </br> [IAM](./AWS/IAM/IAM.md) </br> [S3](./AWS/s3/s3.md) </br> |
+|Banco de Dados | [MySQL](./Banco%20de%20Dados/MySQL/mysql.md) </br> [MongoDB](./Banco%20de%20Dados/MongoDB/mongodb.md)|
+| Python | [Python](./Python/)|
+| NumPy | [NumPy](./Numpy/)|
+
+
+</br>
 
 ## Conteúdos 
 
